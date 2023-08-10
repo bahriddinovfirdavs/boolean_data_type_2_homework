@@ -8,4 +8,4 @@ def main(L,R):
         bool
     """
     # Write your code here
-    return 
+    return R*2==L
