@@ -7,4 +7,5 @@ def main(a):
         bool
     """
     # Write your code here
-    return a%4==0 and a%400==0
+    return a>0 and a%4==0 and a%400==0
+print(main(int(input())))
