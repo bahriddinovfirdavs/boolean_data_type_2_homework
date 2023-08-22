@@ -8,4 +8,3 @@ def main(a):
     """
     # Write your code here
     return a>0 and a%7==0 and a%3!=0
-print(main(int(input())))
